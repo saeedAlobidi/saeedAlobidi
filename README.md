@@ -1,17 +1,17 @@
-# Sr.Software engineer | Sr.backend-engineer || Microservices
-
+# Sr. Software Engineer | Sr. Backend Engineer | Microservices
 
 ## About Me
 - 🌱 **7+ years of experience as a Full Stack Software Engineer**
 - 💻 Expertise in designing and building scalable systems using clean architecture, Domain-Driven Design (DDD), and microservices
-- 🚀 Specialising in performance optimisation, particularly with large-scale systems and high-performance databases
+- 🚀 Specializing in performance optimization, particularly with large-scale systems and high-performance databases
 - ✍️ Committed to writing clean, testable code with robust architecture and real-world maintainability
 - 🎯 Passionate about developing efficient, secure, and modern end-to-end applications
 
 ## My Tech Stack
-| :rocket: **ASP.NET Core** | :globe_with_meridians: **Node.js** | :atom: **React** | :leaves: **Vue.js** | :triangular_ruler: **Nuxt.js** | :whale: **Docker** |
-|---------------------------|------------------------------------|------------------|---------------------|-------------------------------|---------------------|
-| :scroll: **JavaScript**   | :gear: **TypeScript**             | :octocat: **Git** | :penguin: **Linux** | :green_heart: **MongoDB**     | :gem: **Redis**     |
+| :rocket: **ASP.NET Core** | :globe_with_meridians: **Node.js** | :leaves: **Vue.js** | :triangular_ruler: **Nuxt.js** | :whale: **Docker** | :anchor: **Kubernetes** |
+|---------------------------|------------------------------------|---------------------|-------------------------------|---------------------|--------------------------|
+| :scroll: **JavaScript**   | :gear: **TypeScript**             | :octocat: **Git**   | :penguin: **Linux**           | :green_heart: **MongoDB** | :gem: **Redis**          |
+| :wrench: **AWS**          | :cloud: **Azure**                | :lock: **Spring Boot** | :bar_chart: **GraphQL**       | :hammer: **Jenkins**     | :package: **Maven**      |
 
 ## Focus Areas
 - 🏛️ **Clean Architecture & Hexagonal Architecture**
@@ -19,9 +19,9 @@
 - 🌐 **Microservices**
 - ⚡ **High-Performance Databases & In-Memory Databases (Redis)**
 - ✅ **Testing: Unit, Integration, and API**
-- 🛠️ **DevOps: Dockerized Environments, GitHub Actions**
+- 🛠️ **DevOps: Dockerized Environments, GitHub Actions, Kubernetes Orchestration**
 
- ---
+---
 
 ### 🏆 GitHub Trophies
 
