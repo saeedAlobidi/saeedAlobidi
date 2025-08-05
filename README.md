@@ -1,7 +1,7 @@
 # Sr. Software Engineer | Sr. Backend Engineer | Microservices
 
 ## About Me
-- 🌱 **7+ years of experience as a Full Stack Software Engineer**
+- 🌱 **7+ years of experience as a Software Engineer**
 - 💻 Expertise in designing and building scalable systems using clean architecture, Domain-Driven Design (DDD), and microservices
 - 🚀 Specializing in performance optimization, particularly with large-scale systems and high-performance databases
 - ✍️ Committed to writing clean, testable code with robust architecture and real-world maintainability
