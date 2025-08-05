@@ -8,10 +8,10 @@
 - 🎯 Passionate about developing efficient, secure, and modern end-to-end applications
 
 ## My Tech Stack
-| :rocket: **ASP.NET Core** | :globe_with_meridians: **Node.js** | :leaves: **Vue.js** | :triangular_ruler: **Nuxt.js** | :whale: **Docker** | :anchor: **Kubernetes** |
+| :rocket: **ASP.NET Core** | :rocket: **Node.js** |  :rocket: **nest.js** | :leaves: **Vue.js** |  :triangular_ruler: **Nuxt.js** | :whale: **Docker** | :anchor: **Kubernetes** |
 |---------------------------|------------------------------------|---------------------|-------------------------------|---------------------|--------------------------|
-| :scroll: **JavaScript**   | :gear: **TypeScript**             | :octocat: **Git**   | :penguin: **Linux**           | :green_heart: **MongoDB** | :gem: **Redis**          |
-| :wrench: **AWS**          | :cloud: **Azure**                | :bar_chart: **GraphQL**         
+| :gear: **TypeScript**             | :octocat: **Git**   | :penguin: **Linux**           | :green_heart: **MongoDB** | :gem: **Redis**          |
+ | :cloud: **Azure**                | :bar_chart: **GraphQL**         
 
 ## Focus Areas
 - 🏛️ **Clean Architecture & Hexagonal Architecture**
