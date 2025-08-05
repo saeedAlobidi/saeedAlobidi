@@ -12,11 +12,11 @@
 | :gear: **TypeScript** | :octocat: **Git**   | :penguin: **Linux** | :green_heart: **MongoDB** | :gem: **Redis** |  :rocket: **Kafka** |  :rocket: **rabbitmq** |
 | :cloud: **Azure** | :bar_chart: **GraphQL**         
 
-## 🚀 Focus Areas
+# 🚀 Focus Areas
 
-# 🏛️ Architecture
-# ⚡ High-Performance Systems && Microservices
-# 🛠️ Backend Engineering
+## 🏛️ Architecture
+## ⚡ High-Performance Systems && Microservices
+## 🛠️ Backend Engineering
 
 
 ### 🏆 GitHub Trophies
