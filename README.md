@@ -11,7 +11,7 @@
 | :rocket: **ASP.NET Core** | :globe_with_meridians: **Node.js** | :leaves: **Vue.js** | :triangular_ruler: **Nuxt.js** | :whale: **Docker** | :anchor: **Kubernetes** |
 |---------------------------|------------------------------------|---------------------|-------------------------------|---------------------|--------------------------|
 | :scroll: **JavaScript**   | :gear: **TypeScript**             | :octocat: **Git**   | :penguin: **Linux**           | :green_heart: **MongoDB** | :gem: **Redis**          |
-| :wrench: **AWS**          | :cloud: **Azure**                | :lock: **Spring Boot** | :bar_chart: **GraphQL**       | :hammer: **Jenkins**     | :package: **Maven**      |
+| :wrench: **AWS**          | :cloud: **Azure**                | :bar_chart: **GraphQL**         
 
 ## Focus Areas
 - 🏛️ **Clean Architecture & Hexagonal Architecture**
