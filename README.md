@@ -20,23 +20,7 @@
 - ✅ **Testing: Unit, Integration, and API**
 - 🛠️ **DevOps: Dockerized Environments, GitHub Actions**
 
-
-## 📈 My Journey
-
-### 👨‍💻 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saleh-Mohammed-Alabidi&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saleh-Mohammed-Alabidi&layout=compact&theme=tokyonight)
-
----
-
-### 🏆 GitHub Trophies
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Saleh-Mohammed-Alabidi&theme=tokyonight&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
+ 
 ### 📊 Activity Graph
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Saleh-Mohammed-Alabidi&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
