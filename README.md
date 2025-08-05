@@ -1,4 +1,5 @@
-# Full Stack Developer | ASP.NET | Node.js  | Vue | Microservices | Docker
+# Sr.Software engineer | Sr.backend-engineer || Microservices
+
 
 ## About Me
 - 🌱 **7+ years of experience as a Full Stack Software Engineer**
@@ -20,7 +21,14 @@
 - ✅ **Testing: Unit, Integration, and API**
 - 🛠️ **DevOps: Dockerized Environments, GitHub Actions**
 
- 
+ ---
+
+### 🏆 GitHub Trophies
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Saleh-Mohammed-Alabidi&theme=tokyonight&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ### 📊 Activity Graph
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Saleh-Mohammed-Alabidi&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
