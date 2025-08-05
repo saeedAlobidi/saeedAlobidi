@@ -12,15 +12,12 @@
 | :gear: **TypeScript** | :octocat: **Git**   | :penguin: **Linux** | :green_heart: **MongoDB** | :gem: **Redis** |  :rocket: **Kafka** |  :rocket: **rabbitmq** |
 | :cloud: **Azure** | :bar_chart: **GraphQL**         
 
-## Focus Areas
-- 🏛️ **Clean Architecture & Hexagonal Architecture**
-- 🎨 **Domain-Driven Design (DDD)**
-- 🌐 **Microservices**
-- ⚡ **High-Performance Databases & In-Memory Databases (Redis)**
-- ✅ **Testing: Unit, Integration, and API**
-- 🛠️ **DevOps: Dockerized Environments, GitHub Actions, Kubernetes Orchestration**
+## 🚀 Focus Areas
 
----
+# 🏛️ Architecture
+# ⚡ High-Performance Systems && Microservices
+# 🛠️ Backend Engineering
+
 
 ### 🏆 GitHub Trophies
 
