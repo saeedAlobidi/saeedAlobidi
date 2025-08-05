@@ -9,7 +9,7 @@
 
 ## My Tech Stack
 | :rocket: **ASP.NET Core** | :rocket: **Node.js** |  :rocket: **nest.js** | :leaves: **Vue.js** |  :triangular_ruler: **Nuxt.js** | :whale: **Docker** | :anchor: **Kubernetes** 
-| :gear: **TypeScript** | :octocat: **Git**   | :penguin: **Linux** | :green_heart: **MongoDB** | :gem: **Redis**          |
+| :gear: **TypeScript** | :octocat: **Git**   | :penguin: **Linux** | :green_heart: **MongoDB** | :gem: **Redis** |  :rocket: **Kafka** |  :rocket: **rabbitmq** |
 | :cloud: **Azure** | :bar_chart: **GraphQL**         
 
 ## Focus Areas
