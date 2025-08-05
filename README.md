@@ -2,7 +2,7 @@
 
 ## About Me
 - 🌱 **7+ years of experience as a Software Engineer**
-- 💻 Expertise in designing and building scalable systems using clean architecture, Domain-Driven Design (DDD), and microservices
+- 💻 Expertise in designing and building scalable systems.
 - 🚀 Specializing in performance optimization, particularly with large-scale systems and high-performance databases
 - ✍️ Committed to writing clean, testable code with robust architecture and real-world maintainability
 - 🎯 Passionate about developing efficient, secure, and modern end-to-end applications
